@@ -1,7 +1,7 @@
 #!/bin/bash
 
 folder="./loop"
-rtmp="rtmp://a.rtmp.youtube.com/live2/dgjr-dspx-6cmd-dpu2-4zpm"
+rtmp="rtmp://a.rtmp.youtube.com/live2/..."
 showName= true
 nameMargin=75
 nameSize=75
